@@ -198,26 +198,22 @@ const thirdYearEven_17 = {
     credit: 2,
   },
   s5: {
-    code: "IT8501",
+    code: "ELECTIVE",
     credit: 3,
   },
   s6: {
-    code: "IT8511",
-    credit: 2,
-  },
-  s7: {
     code: "HS8581",
     credit: 1,
   },
-  s8: {
-    code: "ELECTIVE",
+  s7: {
+    code: "IT8501",
     credit: 3,
+  },
+  s8: {
+    code: "IT8511",
+    credit: 2,
   },
   s9: {
-    code: "ELECTIVE",
-    credit: 3,
-  },
-  s10: {
     code: " SB8017",
     credit: 1,
   },
