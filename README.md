@@ -1,10 +1,12 @@
-<h3 align="center">Project Overview This is a simple GPA Calculator built using HTML, CSS, and JavaScript. The tool allows users to input their own grades and credits for different subjects to calculate their GPA dynamically. The values are customizable, enabling users to replace the placeholders with their own data for personalized calculations.</h3>
+<h3 align="center">Project Overview</h3>
+<h2 align="center">This is a simple GPA Calculator built using HTML, CSS, and JavaScript. The tool allows users to input their own grades and credits for different subjects to calculate their GPA dynamically. The values are customizable, enabling users to replace the placeholders with their own data for personalized calculations.</h2>
 
 - 👨‍💻 Website Link [https://gpa-calculator-22.netlify.app/](https://gpa-calculator-22.netlify.app/)
 
-- 💬 Features **Features Dynamic GPA Calculation: Automatically calculates GPA based on the grades and credits entered. Customizable Input Fields: Users can modify grades and credits to suit their own needs. Responsive Design: The interface is simple, clean, and works well on various screen sizes. User-Friendly: No complex setups or installations required.**
+- 💬 Features
+- **Features Dynamic GPA Calculation: Automatically calculates GPA based on the grades and credits entered. Customizable Input Fields: Users can modify grades and credits to suit their own needs. Responsive Design: The interface is simple, clean, and works well on various screen sizes. User-Friendly: No complex setups or installations required.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
