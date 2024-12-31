@@ -4,7 +4,10 @@
 - 👨‍💻 Website Link [https://gpa-calculator-22.netlify.app/](https://gpa-calculator-22.netlify.app/)
 
 - 💬 Features
-- **Features Dynamic GPA Calculation: Automatically calculates GPA based on the grades and credits entered. Customizable Input Fields: Users can modify grades and credits to suit their own needs. Responsive Design: The interface is simple, clean, and works well on various screen sizes. User-Friendly: No complex setups or installations required.**
+- **Features Dynamic GPA Calculation: Automatically calculates GPA based on the grades and credits entered.**
+- **Customizable Input Fields: Users can modify grades and credits to suit their own needs.**
+- **Responsive Design: The interface is simple, clean, and works well on various screen sizes.**
+- **User-Friendly: No complex setups or installations required.**
 
 
 <p align="left">
